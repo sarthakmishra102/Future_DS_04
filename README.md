@@ -1,4 +1,4 @@
-# 🎧 Customer Support & Ticket Resolution Analysis
+# 🎧 Customer Support & Ticket Resolution Analysis | Tableau Dashboard
 
 ## 📌 Overview
 This project analyzes customer support ticket data to uncover performance trends, resolution efficiency, and key customer pain points. It includes visualizations through Tableau and raw data exploration.
